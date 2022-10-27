@@ -1,5 +1,6 @@
 # University of Cincinnati IT 7075C Group Final Project
 
+```
 Decision Tree
 Training time:  0.022116661071777344
 Testing time:  0.0
@@ -11,9 +12,10 @@ Testing time:  0.0
     accuracy                        0.91497      2211
    macro avg    0.91274   0.91362   0.91316      2211
 weighted avg    0.91509   0.91497   0.91502      2211
+```
 
 
-
+```
 Random Forest
 Training time:  0.5011155605316162
 Testing time:  0.046877384185791016
@@ -25,3 +27,4 @@ Testing time:  0.046877384185791016
     accuracy                        0.97060      2211
    macro avg    0.97039   0.96947   0.96991      2211
 weighted avg    0.97059   0.97060   0.97059      2211
+```
