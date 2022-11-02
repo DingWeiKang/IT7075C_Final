@@ -28,3 +28,10 @@ Testing time:  0.029998064041137695
    macro avg    0.97066   0.96919   0.96990      2211
 weighted avg    0.97060   0.97060   0.97058      2211
 ```
+
+Decistion Tree - AUC-ROC Curve
+![My Image](DT.png)
+
+
+Random Forest - AUC-ROC Curve
+![My Image](RF.png)
