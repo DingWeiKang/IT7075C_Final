@@ -2,8 +2,8 @@
 
 ```
 Decision Tree
-Training time:  0.022116661071777344
-Testing time:  0.0
+Training time:  0.01006460189819336
+Testing time:  0.0010991096496582031
               precision    recall  f1-score   support
 
           -1    0.89684   0.90446   0.90063       942
@@ -17,14 +17,14 @@ weighted avg    0.91509   0.91497   0.91502      2211
 
 ```
 Random Forest
-Training time:  0.5011155605316162
-Testing time:  0.046877384185791016
+Training time:  0.47707438468933105
+Testing time:  0.029998064041137695
               precision    recall  f1-score   support
 
-          -1    0.96898   0.96178   0.96537       942
-           1    0.97179   0.97715   0.97446      1269
+          -1    0.97100   0.95966   0.96530       942
+           1    0.97031   0.97872   0.97450      1269
 
     accuracy                        0.97060      2211
-   macro avg    0.97039   0.96947   0.96991      2211
-weighted avg    0.97059   0.97060   0.97059      2211
+   macro avg    0.97066   0.96919   0.96990      2211
+weighted avg    0.97060   0.97060   0.97058      2211
 ```
